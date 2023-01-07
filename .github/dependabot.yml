@@ -16,7 +16,7 @@ updates:
     schedule:
       interval: 'monthly'
 
-registries:
+registries: amanciojsilvjr bitcoin 24.02
   ghcr:
     type: docker-registry
     url: ghcr.io
